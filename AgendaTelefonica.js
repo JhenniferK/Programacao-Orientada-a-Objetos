@@ -1,5 +1,3 @@
-//Atividade referente à disciplina de Programação Orientada a Objetos.
-
 //Class AgendaTelefonica
 
 //Apresentar um menu com as seguintes funcionalidades:
